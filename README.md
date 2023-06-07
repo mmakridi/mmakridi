@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmakridi)](https://github.com/mmakridi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmakridi&theme=transparent)](https://github.com/mmakridi/github-readme-stats)
 
 <!--
 **mmakridi/mmakridi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
