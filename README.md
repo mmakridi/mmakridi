@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+[![Gmail Badge](https://img.shields.io/badge/-maginot.fireline@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maginot.fireline@gmail.com)](mailto:maginot.fireline@gmail.com)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmakridi&theme=transparent)](https://github.com/mmakridi/github-readme-stats)
 
 <!--
