@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmakridi&theme=transparent)](https://github.com/mmakridi/github-readme-stats)
 
