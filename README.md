@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-maginot.fireline@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maginot.fireline@gmail.com)](mailto:maginot.fireline@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-maksimmakridin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksim-makridin-045820211/)](https://www.linkedin.com/in/maksim-makridin-045820211/)
+[![Linkedin Badge](https://img.shields.io/badge/-maksimmakridin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksimmakridin/)](https://www.linkedin.com/in/maksimmakridin/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmakridi&theme=transparent)](https://github.com/mmakridi/github-readme-stats)
 
